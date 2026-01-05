@@ -9,3 +9,5 @@ def divide(x,y):
 
 def substract(x,y):
     return x-y
+
+print("loaded!")
